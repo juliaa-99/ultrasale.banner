@@ -9137,3 +9137,17 @@ img.image-right {
 .news-item__text li {
   list-style: inside;
 }
+
+
+
+
+.banner__slider .slick-track {
+  display: flex;
+  align-items: inherit;
+}
+.banner__slider .slick-slide > div {
+  height: 100%;
+}
+.banner__slider-item {
+  height: 100%;
+}
